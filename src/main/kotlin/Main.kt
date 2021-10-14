@@ -1,5 +1,5 @@
-fun printstudentname(){
-    
+fun printstudentname(){ // this function don't have return just print nae of student
+
     println("haya")
     println("raghad")
     println("afrah")
